@@ -9,7 +9,10 @@
 			"extensions": [
 				"ms-python.python",
 				"ms-python.vscode-pylance",
-				"charliermarsh.ruff"
+				"charliermarsh.ruff",
+				"angular.ng-template",
+				"bradlc.vscode-tailwindcss",
+				"stivo.tailwind-fold"
 			]
 		}
 	}
